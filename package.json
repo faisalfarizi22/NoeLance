@@ -1,0 +1,23 @@
+{
+  "name": "neolance-escrow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^4.9.5",
+    "hardhat": "^2.22.18"
+  },
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
