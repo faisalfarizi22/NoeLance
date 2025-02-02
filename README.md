@@ -1,2 +1,2 @@
-# NoeLance
+# NeoLance
 NeoLance Smart Contract
